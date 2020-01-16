@@ -6,5 +6,5 @@
 <h3>This is a video to show you how to play the game https://youtu.be/eEMNH9grSsM</h3>
 
 <h3> This is the flowchart we made to follow along with in the design process</h3>
-<img>
+<img src=AbandondedHouse/C#final.png>
  
